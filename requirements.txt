@@ -1,0 +1,7 @@
+fastai
+fastapi
+pydantic
+uvicorn
+python-multipart
+pandas
+Pyarrow
