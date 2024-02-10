@@ -2,7 +2,7 @@ Fashion-fastAPI
 
 Instructions of use
 1. Download the code zip file by clicking on Code then Download ZIP
-2. Extract the zip file
+2. Extract the zip file (Just select extract here and not to another folder as there is already a folder inside the zip)
 3. Create a new directory for this project
 4. create a virtual environment in the project directory by running `python -m venv venv`
 5. place the contents of the extracted zip folder into the root of the project directory you created 
