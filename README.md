@@ -1,6 +1,8 @@
 # Fashion-fastAPI
 
-## Instructions of use (Of course you will need [Python](python.org) to run this)
+## Instructions of use (Of course you will need [Python](https://www.python.org/) to run this)
+
+##### P.S. Make sure python has been added to path (This will save you a lot of headache.)
 
 1. Download the code zip file by clicking on Code then Download ZIP
 2. Extract the zip file (Just select extract here and not to another folder as there is already a folder inside the zip)
